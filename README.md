@@ -27,11 +27,11 @@ An open research about documentation practices in laboratories. The idea is to g
 ## Schedule ##
 
 ## Needs ##
-Help, I need somebody. Help, Heeeeeeeeeeeeeeeelp. :) 
+Help, I need somebody. Help,  not just anybody. Help), you know I need someone. Heeeeeeeeeeeeeeeelp. :) 
 
 ## Staff ##
  * Anne Clinio
- * Your name
+ * Put your name here...
 
 ## Contact ##
   Anne Clinio - anneclinio at gmail dot com

@@ -1,11 +1,11 @@
 # documenta
 An invitation to participate on an open research about documentation practices in open laboratories, specially citizen labs. The idea is to showcase and research documentation practices developed by or to help citizen laboratories, makerspaces, hackerspaces to register its local practices in order to spread their communities of practices. 
 
-<h2>First references</h2> 
+<h2>First references<h2> 
 
 <h3> Open notebook science as an emerging epistemic culture within the Open Science movement </h3>
 
-<h3> Doc.art </h3> 
+<h3> Doc.art <h3> 
 
 https://github.com/docART/documentacion 
 

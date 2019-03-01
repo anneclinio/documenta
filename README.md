@@ -6,7 +6,7 @@ An open research about documentation practices in laboratories. The idea is to g
 
 ## Why? ##
 
-In 2015, I was researching about open laboratory notebooks (indeed open notebook science proposed by Jean-Claude Bradley) with Antonio Lafuente's supervision in Madrid and he introduced me to the citizen laboratories, specially Medialab-Prado. He suggested me to expand my research scope to informal spaces that explore collaborative experimentation and learning such as medialabs, citilabs, hacklabs and maker spaces.  
+In 2015, I was researching about open laboratory notebooks (indeed open notebook science proposed by Jean-Claude Bradley) with Antonio Lafuente's supervision in Madrid and he introduced me to the citizen laboratories, specially Medialab-Prado (MLP). He suggested me to expand my research scope to informal spaces that explore collaborative experimentation and learning such as medialabs, citilabs, hacklabs and maker spaces.  
 
 Suggestion accepted, I started participating in some researches conducted by MLP mediators-researchers in order to observe the knowledge production process and their documentation practices. I discovered that they fully embrace the idea of laboratory since it represents an experimental approach in the sense that allows us to explore something without be able to anticipate the final result, as a possibility of producing collectively new knowledge by trial and error. But when it comes to documenting, they do not follow the standard of keeping laboratory notebooks. 
 
@@ -23,11 +23,18 @@ I am Brazilian researcher, working on the information science field, and I have 
 
 ## Practices to be studied ##
 
-**Doc.art**
-**Abstract:** 
-  * Documentation - https://github.com/docART/documentacion 
-  * Video - https://vimeo.com/249640649
+**Open notebook science** - 
+"According to Jean Claude Bradley (Sept, 26, 2006), open notebook science refers to “a way of doing science in which — as best as you can — you make all your research freely available to the public and in real time”. It claims for a new form of formal communication between scientists, enriched by the early opening of information and results. It demands a new practice: making available in real time the totality of scientists’ laboratory notebooks on online platforms, as well as free licenses that make possible the access, reuse and redistribution of content by any person or automated system. This innovation does not only include raw data and information about positive results of a given piece of scientific research; it also disseminates partial status, weaknesses and challenges at a stage when they have not yet been solved by scientists. Sharing the “backstage” of science, its intermediate stages, doubts and difficulties is part of Bradley’s strategy aimed at promoting a “faster science, better science” and at attracting collaborators and resources in order to solve scientific questions challenging him.
 
+Bradley defined open notebook science in the following way:
+
+[…] I will use the term Open Notebook Science, which has not yet suffered meme mutation. By this I mean that there is a URL to a laboratory notebook (like this) that is freely available and indexed on common search engines. It does not necessarily have to look like a paper notebook but it is essential that all of the information available to the researchers to make their conclusions is equally available to the rest of the world. Basically, no insider information. (Bradley, Sept, 26, 2006)
+
+Starting from this objective, Bradley later on focused his work on the development of open antimala (...)open notebook science’s origin is situated at the junction of new forms of collaboration in digital environments and the emergence of a free digital culture. Its first practices were carried out in the context of the UsefulChem project, launched in 20059, to fulfill Bradley’s personal objective of “making a useful contribution to society” because “In thinking about what has meaning for me as a scientist, I realized that the work I was doing wasn’t having the kind of impact that I would like it to have, and it was not benefitting mankind in the way I would have hoped. I concluded that this was partly a consequence of secrecy” (Bradley, Sep 2010)." (Clinio, Albagli, 2017) (https://journals.openedition.org/rfsic/3186#text)
+
+**Doc.art**
+"Documenting is not recording facts but showing processes. It is not an occupation, but an attitude towards life: a mentality rather than a technique. The processes of collective construction and collaborative prototyping are invisible or disappear after the presence of the deliverable because those processes escape conventional documentation tools. The EduCaaS team, in collaboration with Antonio Lafuente, is designing a digital tool that makes these processes visible and also models them so that they can be replicated, modified and evaluated. This tool is a fundamental piece in citizen laboratories, understood as listening devices and open spaces of collective creation fundamental for the democratic renewal of our society." (Doc.art, 2017) (https://github.com/docART/documentacion) 
+* Video - https://vimeo.com/249640649
 
 ## Motivations ##
 
@@ -44,12 +51,12 @@ Help, I need somebody. Help,  not just anybody. Help), you know I need someone. 
 
 ## Staff ##
  * Anne Clinio
- * Put your name here...
+ * Put your name here... :)
 
 ## Contact ##
   Anne Clinio - anneclinio at gmail dot com
 
-## Literature ## 
+## Initial literature ## 
 
  ### Open notebook science ###
 

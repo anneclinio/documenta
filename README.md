@@ -23,7 +23,7 @@ I am Brazilian researcher, working on the information science field, and I have 
 
 ## Practices to be studied ##
 
-### Open notebook science ###  
+#### Open notebook science ####   
 "According to Jean Claude Bradley (Sept, 26, 2006), open notebook science refers to “a way of doing science in which — as best as you can — you make all your research freely available to the public and in real time”. It claims for a new form of formal communication between scientists, enriched by the early opening of information and results. It demands a new practice: making available in real time the totality of scientists’ laboratory notebooks on online platforms, as well as free licenses that make possible the access, reuse and redistribution of content by any person or automated system. This innovation does not only include raw data and information about positive results of a given piece of scientific research; it also disseminates partial status, weaknesses and challenges at a stage when they have not yet been solved by scientists. Sharing the “backstage” of science, its intermediate stages, doubts and difficulties is part of Bradley’s strategy aimed at promoting a “faster science, better science” and at attracting collaborators and resources in order to solve scientific questions challenging him.
 
 Bradley defined open notebook science in the following way:

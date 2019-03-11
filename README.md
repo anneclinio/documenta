@@ -1,8 +1,10 @@
 THIS TEXT IS A WORK IN PROGRESS... 
 
-# documenta?! #
-## What is it? ##
-An open research about documentation practices in laboratories. The idea is to get to know, study and showcase documentation practices developed by pratictioners in labs, specially citizen labs, makerspaces, hackerspaces. We believe that proper documentation of projects is crucial in opening oppportunities to engage persons, share visions, foster communities, inspire initiatives and reproduce objects. Documentation is not the master of universe. It does not capture everything that is happening between us, with us, on us. But it helps us tracking the reasons why we obtain certain findings (commonly and wrongly classified as "successful" or "failure") in our experiments. Also, it allows us to testify and learn from those who came before us.
+# Welcome to documenta?! #
+An open research about documentation practices in laboratories. 
+
+## What is it about? ##
+The idea is to get to know, study and showcase documentation practices developed by practitioners in labs, specially citizen labs, makerspaces, hackerspaces. We believe that proper documentation of projects is crucial in opening opportunities to engage persons, share visions, foster communities, inspire initiatives and reproduce objects. Documentation is not the master of universe. It does not capture everything that is happening between us, with us, on us. But it helps us tracking the reasons why we obtain certain findings (commonly and wrongly classified as "successful" or "failure") in our experiments. Also, it allows us to testify and learn from those who came before us.
 
 ## Why? ##
 
@@ -15,7 +17,6 @@ In some extent, the idea of lab notebooks sounded quite weird. When I explained 
 In may 2015, I examined 120 initiatives published on the “Medialab Prado Comunidad” - an online plattform created in 2013 as "a space for share projects, work together and meet other users". Or "a social network dedicated specifically to the online collaborative work that aims to be an extension of the work that is done in the workshops, offering contact and documentation for medialab users so that “the most important information for group operation is easily available to all” (Medialab-Prado, 2013). I identified that the great majority of the project documentation rested on the first description of initiatives in order to attract collaborators. We could only have an idea of the starting point of the initiatives, but we can not follow their developments or access findings. The basic structure was: a) projects name, b) general escription; c) tools and materials; d) promoter;  e) collaborators; f) links; g) images. I also noticed low interaction among the participants through of the platform, finding a very small number of posts and documents upload. 
 
 To be continued ... 
-
 
 
 ## Who proposes? ##

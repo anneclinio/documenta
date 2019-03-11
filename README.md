@@ -23,10 +23,10 @@ In may 2015, I examined 120 initiatives published on the “Medialab Prado Comun
 To be continued ... 
 
 ## How join in? ##
-Since it is my first open project, I don´t have a stable roadmap. I am still learning with the help of Mozilla Open Leaders 7 (Design and Concur groups) and my mentor Felipe De Santo. The main idea is to connect with people and projects that have a common interests on documentation. For instance, you can particpate by suggesting practices and groups to be studied or invited to join in, studying this practices together, recommending literature about documentation process, sharing your insights or experience about documentation, helping enhance participation, equity and inclusion. 
+Since it is my first open project, I don´t have a stable roadmap. I am still learning with the help of Mozilla Open Leaders 7 (Design & Concur group) and my mentor Felipe De Santo. The main idea is to connect with people and projects that have a common interests on documentation. For instance, you can particpate by: suggesting practices and groups to be studied or invited to join in, studying this practices together, recommending literature about documentation; sharing your insights or experience about documentation; helping enhance participation, equity and inclusion etc. 
 
 ## Who proposes? ##
-I am Brazilian researcher, working on the information science field, and I have studied "citizen laboratories" documentation practices in Spain and Brazil during my PHD process. I also was team member of Ubatuba Open Science Project, an action research that related open science with development issues. Since I study the commons perspective and practices as a third way of governance of the commons, I would like to understand...  
+I am Brazilian researcher, working on the information science field, and I have studied "citizen laboratories" documentation practices in Spain and Brazil during my PHD process. I also was team member of Ubatuba Open Science Project, an action research that related open science with development issues. Since I study the commons perspective as a third way of "governance of the commons" (Ostrom), I would like to understand the possibilities and limits of documentation to enhance such practices. 
 
 ## Practices to be studied ##
 
@@ -45,7 +45,7 @@ Starting from this objective, Bradley later on focused his work on the developme
 #### Relatograma ####
 According to Carla Boserman, a relatograma is one possibility of visual narration that contains drawings and words to register a situation where there are people doing, explaining or sharing things. If nowadays we have many digital technologies to record events as facts, the relatograma aims to register “what does not appear in the photo". It documents (or tell us) how things happen from the point of view of an observer who does not try to make a neutral, objective report or recreate unattainable objectivity. On the contrary, the rapporteur assumes a committed position, from his own unique and situated perspective, to composes a scene that depends on her/his capacity to see  (and document). In that sense, elaborating a relatograma is closed related to the rapporteur's sensitivity to highlight details, give voice to the secondary, speak about emotions, disagreements, doubts, jokes, unforeseen events etc. Its potential is about trying to draw how prototyping and social innovation activities happens.
 
-#### ENTER HERE YOUR SUGGESTIONS ####
+#### ENTER HERE YOUR SUGGESTIONS HERE ####
 
 
 ## Motivations ##

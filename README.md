@@ -1,10 +1,16 @@
 # Welcome to documenta?! #
-An open research about documentation practices in laboratories. 
+An open research about documentation practices in may kinds of laboratories. 
 
 ## What is it about? [vision statement] ##
 The idea is to get to know, study and showcase documentation practices developed by practitioners in labs, specially citizen labs, makerspaces, hackerspaces, informal educational spaces, etc. We believe that proper documentation of projects is crucial in opening opportunities to engage persons, share visions, foster communities, inspire initiatives and reproduce objects. Documentation is not the master of universe. It does not capture everything that is happening between us, with us, on us. But it helps us tracking the reasons why we obtain certain findings in our experiments, prototipes, communities. Also, it allows us to testify and learn from those who came before us, improving our initiatives.
 
+
 ![documenta_open_canvas](https://user-images.githubusercontent.com/8480826/54158199-b9e9d200-4428-11e9-9f7a-9f81b3c7ac5e.png)
+***Adapted from the Lean Canvas***
+***You can edit the Documenta?! Open Canvas at https://docs.google.com/presentation/d/18rxd5vTEHAzT1wn-drhODoErBjiKQI4QVcdpzVpcB-Y/edit?usp=sharing***
+
+
+## Why open? ##
 
 I believe that we can do it better if we do it openly, together and most of all, caring for each other. Since my background is the academic culture, mostly based on competitiveness and secrecy, I believe that this open research will specially deal with three challenges: 
 
@@ -12,7 +18,7 @@ I believe that we can do it better if we do it openly, together and most of all,
 2) To be transparent with contributors and users about how my projects’ decision-making, information-sharing, and content-sharing.
 3) To create multiple, inclusive pathways to participate in my projects and celebrate the accomplishments of people from all the forms of diversity we hold together.
 
-## Why? ##
+## Background ##
 
 In 2015, I was researching about open laboratory notebooks (indeed open notebook science proposed by Jean-Claude Bradley) with Antonio Lafuente's supervision in Madrid and he introduced me to the citizen laboratories, specially Medialab-Prado (MLP). He suggested me to expand my research scope to informal spaces that explore collaborative experimentation and learning such as medialabs, citilabs, hacklabs and maker spaces.  
 

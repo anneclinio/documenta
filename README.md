@@ -2,9 +2,10 @@ THIS TEXT IS A WORK IN PROGRESS...
 
 # Welcome to documenta?! #
 An open research about documentation practices in laboratories. 
+I’m working with [community, allies, contributors] to [make, build, teach, or do something] so that [audience, end users, consumers, community members] can [do something different, achieve a goal]
 
 ## What is it about? ##
-The idea is to get to know, study and showcase documentation practices developed by practitioners in labs, specially citizen labs, makerspaces, hackerspaces. We believe that proper documentation of projects is crucial in opening opportunities to engage persons, share visions, foster communities, inspire initiatives and reproduce objects. Documentation is not the master of universe. It does not capture everything that is happening between us, with us, on us. But it helps us tracking the reasons why we obtain certain findings (commonly and wrongly classified as "successful" or "failure") in our experiments. Also, it allows us to testify and learn from those who came before us.
+The idea is to get to know, study and showcase documentation practices developed by practitioners in labs, specially citizen labs, makerspaces, hackerspaces, informal educational spaces, etc. We believe that proper documentation of projects is crucial in opening opportunities to engage persons, share visions, foster communities, inspire initiatives and reproduce objects. Documentation is not the master of universe. It does not capture everything that is happening between us, with us, on us. But it helps us tracking the reasons why we obtain certain findings in our experiments, prototipes, communities. Also, it allows us to testify and learn from those who came before us, improving our initiatives.
 
 ## Why? ##
 

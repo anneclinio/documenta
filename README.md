@@ -1,5 +1,3 @@
-THIS TEXT IS A WORK IN PROGRESS... 
-
 # Welcome to documenta?! #
 An open research about documentation practices in laboratories. 
 
@@ -24,6 +22,8 @@ In may 2015, I examined 120 initiatives published on the “Medialab Prado Comun
 
 To be continued ... 
 
+## How can I join in? ##
+Since it is my first open project, I don´t have a stable roadmap. I am still learning with the help of Mozilla Open Leaders 7 (Design and Concur groups) and my mentor Felipe De Santo. The main idea is to connect with people and projects that have a common interests on documentation. For instance, you can particpate by suggesting practices and groups to be studied or invited to join in, studying this practices together, recommending literature about documentation process, sharing your insights or experience about documentation, helping enhance participation, equity and inclusion. 
 
 ## Who proposes? ##
 I am Brazilian researcher, working on the information science field, and I have studied "citizen laboratories" documentation practices in Spain and Brazil during my PHD process. I also was team member of Ubatuba Open Science Project, an action research that related open science with development issues. Since I study the commons perspective and practices as a third way of governance of the commons, I would like to understand...  

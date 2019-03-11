@@ -4,6 +4,8 @@ An open research about documentation practices in laboratories.
 ## What is it about? [vision statement] ##
 The idea is to get to know, study and showcase documentation practices developed by practitioners in labs, specially citizen labs, makerspaces, hackerspaces, informal educational spaces, etc. We believe that proper documentation of projects is crucial in opening opportunities to engage persons, share visions, foster communities, inspire initiatives and reproduce objects. Documentation is not the master of universe. It does not capture everything that is happening between us, with us, on us. But it helps us tracking the reasons why we obtain certain findings in our experiments, prototipes, communities. Also, it allows us to testify and learn from those who came before us, improving our initiatives.
 
+! [documenta_open_canvas](https://user-images.githubusercontent.com/8480826/54157893-0b459180-4428-11e9-855c-df70e9be01f8.png)
+
 I believe that we can do it better if we do it openly, together and most of all, caring for each other. Since my background is the academic culture, mostly based on competitiveness and secrecy, I believe that this open research will specially deal with three challenges: 
 
 1) To acknowledge, compensate, and/or otherwise reward contributors equitably for their work.

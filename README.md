@@ -85,7 +85,7 @@ Help, I need somebody. Help,  not just anybody. Help), you know I need someone. 
 ### Relatograma ###
 ***Cómo hacer un relatograma*** - Carla Boserman - http://laaventuradeaprender.intef.es/documents/10184/72154/Guia-LADA_Como-hacer-un-relatograma.pdf
 
-***Relatogramas: Dibujo y cognición en laboratorios sin muros*** - Carla Boserman, Máster en Comunicación, Cultura y Ciudadanía Digitales, Universidad Rey Juan Carlos, 2013
+***Relatogramas: Dibujo y cognición en laboratorios sin muros*** - Carla Boserman - Máster en Comunicación, Cultura y Ciudadanía Digitales, Universidad Rey Juan Carlos, 2013
 
 
 ## License ##

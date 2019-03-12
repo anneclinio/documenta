@@ -32,6 +32,10 @@ To be continued ...
 ## How join in? ##
 Since it is my first open project, I don´t have a stable roadmap. I am still learning with the help of Mozilla Open Leaders 7 (Design & Concur group) and my mentor Felipe De Santo. The main idea is to connect with people and projects that have a common interests on documentation. For instance, you can particpate by: suggesting practices and groups to be studied or invited to join in, studying this practices together, recommending literature about documentation; sharing your insights or experience about documentation; helping enhance participation, equity and inclusion etc. 
 
+Documenta?! adopts the [Mozilla Community Participation Guidelines] (https://www.mozilla.org/en-US/about/governance/policies/participation/) that "put people first and do our best to recognize, appreciate and respect the diversity of our global contributors". It aims to contribute in a healthy and constructive manner within our community. In a glance, this code of conduct expects the following behaviour: a) be respectful, b) be direct but professional, c) be inclusive, d) understand different perspectives; e) appreciate and accommodate our similarities and differences and f) lead by example.
+
+By contrast, the following behaviors are not tolerated: a) violence and threats of violence; b) personal attacks; c) derogatory language; d) unwelcome sexual attention or physical contact; d) disruptive behavior and e) influencing unacceptable behavior.  
+
 ## Who proposes? ##
 I am Brazilian researcher, working on the information science field, and I have studied "citizen laboratories" documentation practices in Spain and Brazil during my PHD process. I also was team member of Ubatuba Open Science Project, an action research that related open science with development issues. Since I study the commons perspective as a third way of "governance of the commons" (Ostrom), I would like to understand the possibilities and limits of documentation to enhance such practices. 
 

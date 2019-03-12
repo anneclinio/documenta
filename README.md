@@ -51,6 +51,7 @@ I am Brazilian researcher, working on the information science field, and I have 
 "Documenting is not recording facts but showing processes. It is not an occupation, but an attitude towards life: a mentality rather than a technique. The processes of collective construction and collaborative prototyping are invisible or disappear after the presence of the deliverable because those processes escape conventional documentation tools. The EduCaaS team, in collaboration with Antonio Lafuente, is designing a digital tool that makes these processes visible and also models them so that they can be replicated, modified and evaluated. This tool is a fundamental piece in citizen laboratories, understood as listening devices and open spaces of collective creation fundamental for the democratic renewal of our society." 
 
 ![docart](https://user-images.githubusercontent.com/8480826/54236288-fe8d7000-44f1-11e9-9def-a7580e8dc728.png)
+
 **Watch the video** [Docart. Documentar para compartir](https://vimeo.com/249640649)
 
 

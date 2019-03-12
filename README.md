@@ -54,7 +54,6 @@ Starting from this objective, Bradley later on focused his work on the developme
 
 #### Relatograma ####
 According to Carla Boserman, a relatograma is one possibility of visual narration that contains drawings and words to register a situation where there are people doing, explaining or sharing things. If nowadays we have many digital technologies to record events as facts, the relatograma aims to register “what does not appear in the photo". It documents (or tell us) how things happen from the point of view of an observer who does not try to make a neutral, objective report or recreate unattainable objectivity. On the contrary, the rapporteur assumes a committed position, from his own unique and situated perspective, to composes a scene that depends on her/his capacity to see  (and document). In that sense, elaborating a relatograma is closed related to the rapporteur's sensitivity to highlight details, give voice to the secondary, speak about emotions, disagreements, doubts, jokes, unforeseen events etc. Its potential is about trying to draw how prototyping and social innovation activities happens.
-
 "Diseccion de un relatograma" 
 ![Diseccion_de_un_relatograma gde](https://user-images.githubusercontent.com/8480826/54234717-6b067000-44ee-11e9-9105-7e66efb7fe98.jpg)
 [Image credit: Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Diseccion_de_un_relatograma.jpg), user:carlaboser

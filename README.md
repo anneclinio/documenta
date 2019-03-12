@@ -8,15 +8,6 @@ The idea is to get to know, study and showcase documentation practices developed
 
 *Adapted from the Lean Canvas. [Documenta?! Open Canvas](https://docs.google.com/presentation/d/18rxd5vTEHAzT1wn-drhODoErBjiKQI4QVcdpzVpcB-Y/edit?usp=sharing)
 
-
-## Why open? ##
-
-I believe that we can do it better if we do it openly, together and most of all, caring for each other. Since my background is the academic culture, mostly based on competitiveness and secrecy, I believe that this open research will specially deal with three challenges: 
-
-1) To acknowledge, compensate, and/or otherwise reward contributors equitably for their work.
-2) To be transparent with contributors and users about how my projects’ decision-making, information-sharing, and content-sharing.
-3) To create multiple, inclusive pathways to participate in my projects and celebrate the accomplishments of people from all the forms of diversity we hold together.
-
 ## Background ##
 
 In 2015, I was researching about open laboratory notebooks (indeed open notebook science proposed by Jean-Claude Bradley) with Antonio Lafuente's supervision in Madrid and he introduced me to the citizen laboratories, specially Medialab-Prado (MLP). He suggested me to expand my research scope to informal spaces that explore collaborative experimentation and learning such as medialabs, citilabs, hacklabs and maker spaces.  
@@ -28,6 +19,14 @@ In some extent, the idea of lab notebooks sounded quite weird. When I explained 
 In may 2015, I examined 120 initiatives published on the “Medialab Prado Comunidad” - an online plattform created in 2013 as "a space for share projects, work together and meet other users". Or "a social network dedicated specifically to the online collaborative work that aims to be an extension of the work that is done in the workshops, offering contact and documentation for medialab users so that “the most important information for group operation is easily available to all” (Medialab-Prado, 2013). I identified that the great majority of the project documentation rested on the first description of initiatives in order to attract collaborators. We could only have an idea of the starting point of the initiatives, but we can not follow their developments or access findings. The basic structure was: a) projects name, b) general escription; c) tools and materials; d) promoter;  e) collaborators; f) links; g) images. I also noticed low interaction among the participants through of the platform, finding a very small number of posts and documents upload. 
 
 To be continued ... 
+
+## Why open? ##
+
+I believe that we can do it better if we do it openly, together and most of all, caring for each other. Since my background is the academic culture, mostly based on competitiveness and secrecy, I believe that this open research will specially deal with three challenges: 
+
+1) To acknowledge, compensate, and/or otherwise reward contributors equitably for their work.
+2) To be transparent with contributors and users about how my projects’ decision-making, information-sharing, and content-sharing.
+3) To create multiple, inclusive pathways to participate in my projects and celebrate the accomplishments of people from all the forms of diversity we hold together.
 
 ## How join in? ##
 Since it is my first open project, I don´t have a stable roadmap. I am still learning with the help of Mozilla Open Leaders 7 (Design & Concur group) and my mentor Felipe De Santo. The main idea is to connect with people and projects that have a common interests on documentation. For instance, you can particpate by: suggesting practices and groups to be studied or invited to join in, studying this practices together, recommending literature about documentation; sharing your insights or experience about documentation; helping enhance participation, equity and inclusion etc. 

@@ -57,7 +57,7 @@ According to Carla Boserman, a relatograma is one possibility of visual narratio
 
 ![Diseccion_de_un_relatograma gde](https://user-images.githubusercontent.com/8480826/54234717-6b067000-44ee-11e9-9105-7e66efb7fe98.jpg)
 
-Image credit: Disección de un relatograma, user: carlaboser [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Diseccion_de_un_relatograma.jpg)
+Image credit: Disección de un relatograma, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Diseccion_de_un_relatograma.jpg), user: carlaboser
 
 #### Global Open Science Hardware (GOSH) ####
 

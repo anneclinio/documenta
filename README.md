@@ -6,7 +6,7 @@ The idea is to get to know, study and showcase documentation practices developed
 
 ![documenta_open_canvas](https://user-images.githubusercontent.com/8480826/54158199-b9e9d200-4428-11e9-9f7a-9f81b3c7ac5e.png)
 
-*Adapted from the Lean Canvas. [Documenta?! Open Canvas](https://docs.google.com/presentation/d/18rxd5vTEHAzT1wn-drhODoErBjiKQI4QVcdpzVpcB-Y/edit?usp=sharing)
+*Adapted from the Lean Canvas. [Documenta?! Open Canvas](https://docs.google.com/presentation/d/18rxd5vTEHAzT1wn-drhODoErBjiKQI4QVcdpzVpcB-Y/edit?usp=sharing) (editable)*
 
 ## Background ##
 
@@ -45,10 +45,13 @@ I am Brazilian researcher, working on the information science field, and I have 
 
 > […] I will use the term Open Notebook Science, which has not yet suffered meme mutation. By this I mean that there is a URL to a laboratory notebook (like this) that is freely available and indexed on common search engines. It does not necessarily have to look like a paper notebook but it is essential that all of the information available to the researchers to make their conclusions is equally available to the rest of the world. Basically, no insider information. (Bradley, Sept, 26, 2006)
 
-Starting from this objective, Bradley later on focused his work on the development of open antimala (...)open notebook science’s origin is situated at the junction of new forms of collaboration in digital environments and the emergence of a free digital culture. Its first practices were carried out in the context of the UsefulChem project, launched in 20059, to fulfill Bradley’s personal objective of “making a useful contribution to society” because “In thinking about what has meaning for me as a scientist, I realized that the work I was doing wasn’t having the kind of impact that I would like it to have, and it was not benefitting mankind in the way I would have hoped. I concluded that this was partly a consequence of secrecy” (Bradley, Sep 2010)." (Clinio, Albagli, 2017) (https://journals.openedition.org/rfsic/3186#text)
+"(...) open notebook science’s origin is situated at the junction of new forms of collaboration in digital environments and the emergence of a free digital culture. Its first practices were carried out in the context of the UsefulChem project, launched in 20059, to fulfill Bradley’s personal objective of “making a useful contribution to society” because “In thinking about what has meaning for me as a scientist, I realized that the work I was doing wasn’t having the kind of impact that I would like it to have, and it was not benefitting mankind in the way I would have hoped. I concluded that this was partly a consequence of secrecy” (Bradley, Sep 2010)." (Clinio, Albagli, 2017) (https://journals.openedition.org/rfsic/3186#text)
 
 #### Doc.art ####
-"Documenting is not recording facts but showing processes. It is not an occupation, but an attitude towards life: a mentality rather than a technique. The processes of collective construction and collaborative prototyping are invisible or disappear after the presence of the deliverable because those processes escape conventional documentation tools. The EduCaaS team, in collaboration with Antonio Lafuente, is designing a digital tool that makes these processes visible and also models them so that they can be replicated, modified and evaluated. This tool is a fundamental piece in citizen laboratories, understood as listening devices and open spaces of collective creation fundamental for the democratic renewal of our society." (Doc.art, 2017) (https://github.com/docART/documentacion) (See also the video - https://vimeo.com/249640649)
+"Documenting is not recording facts but showing processes. It is not an occupation, but an attitude towards life: a mentality rather than a technique. The processes of collective construction and collaborative prototyping are invisible or disappear after the presence of the deliverable because those processes escape conventional documentation tools. The EduCaaS team, in collaboration with Antonio Lafuente, is designing a digital tool that makes these processes visible and also models them so that they can be replicated, modified and evaluated. This tool is a fundamental piece in citizen laboratories, understood as listening devices and open spaces of collective creation fundamental for the democratic renewal of our society." Watch the [video](https://vimeo.com/249640649)
+
+![docart](https://user-images.githubusercontent.com/8480826/54236288-fe8d7000-44f1-11e9-9def-a7580e8dc728.png)
+
 
 #### Relatograma ####
 According to Carla Boserman, a relatograma is one possibility of visual narration that contains drawings and words to register a situation where there are people doing, explaining or sharing things. If nowadays we have many digital technologies to record events as facts, the relatograma aims to register “what does not appear in the photo". It documents (or tell us) how things happen from the point of view of an observer who does not try to make a neutral, objective report or recreate unattainable objectivity. On the contrary, the rapporteur assumes a committed position, from his own unique and situated perspective, to composes a scene that depends on her/his capacity to see  (and document). In that sense, elaborating a relatograma is closed related to the rapporteur's sensitivity to highlight details, give voice to the secondary, speak about emotions, disagreements, doubts, jokes, unforeseen events etc. Its potential is about trying to draw how prototyping and social innovation activities happens.
@@ -99,6 +102,8 @@ Between 2016 and 2017, the initiative of the Brazilian collective BaixaCultura, 
 
 ### Doc.art ###
  
+*Doc.Art Github repository* - Doc.Art (2017) - https://github.com/docART/documentacion
+
 *Manual Doc.art* - Antonio Lafuente - https://www.academia.edu/36042065/manual_docART
 
 *El arte de documentar* - Antonio Lafuente, David Gómez, Juan Freire - https://www.academia.edu/37938364/El_arte_de_documentar

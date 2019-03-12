@@ -74,7 +74,9 @@ The Global Open Science Hardware (GOSH) movement seeks to reduce barriers betwee
  * Put your name here... :)
 
 ## Contact ##
-  Anne Clinio - anneclinio at gmail dot com
+  Anne Clinio 
+  E-mail: anneclinio at gmail dot com
+  Twitter: anneclinio
 
 ## Initial literature ## 
 

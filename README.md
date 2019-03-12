@@ -60,12 +60,17 @@ According to Carla Boserman, a relatograma is one possibility of visual narratio
 
 The Global Open Science Hardware (GOSH) movement seeks to reduce barriers between diverse creators and users of scientific tools to support the pursuit and growth of knowledge. It depends on documents that are understandable and communicative.
 
+
+#### ¡Enfrenta! ####
+
+Between 2016 and 2017, the initiative of the Brazilian collective BaixaCultura, in partnership with the Spanish Zemos98, researched documentation experiences in 20 collectives around Spain. From this process, a "recombinant methodology" has emerged. The idea is thata documenting is broader than publishing in social networks, but to systematize information, register facts, tell stories and constitute memory. The group's learning was recorded on the blog http://enfrenta.org/
+
 #### ENTER HERE YOUR SUGGESTIONS HERE ####
 
 ## Goals ##
 
 ## Resources ##
- * Us. 
+ * Our will.  
  * Previous literature, researches. 
  * Groups experience.
  

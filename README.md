@@ -110,5 +110,9 @@ Between 2016 and 2017, the initiative of the Brazilian collective BaixaCultura, 
 
 *Relatogramas: Dibujo y cognición en laboratorios sin muros* - Carla Boserman - Máster en Comunicación, Cultura y Ciudadanía Digitales, Universidad Rey Juan Carlos, 2013
 
+*Dibujo y cognición en la laboratorios sin muros* - Carla Boserman (2013) - http://www.carlaboserman.net/relatogramas-dibujo-y-cognicion-enlaboratorios-sin-muros/
+
+*Entre grafos y bits* - Carla Boserman (2014) - http://revistesdigitals.uvic.cat/index.php/obradigital/article/view/33
+
 ## License ##
 CC by-sa-nc

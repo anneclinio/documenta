@@ -6,9 +6,7 @@ The idea is to get to know, study and showcase documentation practices developed
 
 ![documenta_open_canvas](https://user-images.githubusercontent.com/8480826/54158199-b9e9d200-4428-11e9-9f7a-9f81b3c7ac5e.png)
 
-*Adapted from the Lean Canvas*
-
-*You can edit the Documenta?! Open Canvas at https://docs.google.com/presentation/d/18rxd5vTEHAzT1wn-drhODoErBjiKQI4QVcdpzVpcB-Y/edit?usp=sharing*
+*Adapted from the Lean Canvas. [Documenta?! Open Canvas](https://docs.google.com/presentation/d/18rxd5vTEHAzT1wn-drhODoErBjiKQI4QVcdpzVpcB-Y/edit?usp=sharing)
 
 
 ## Why open? ##

@@ -58,6 +58,8 @@ I am Brazilian researcher, working on the information science field, and I have 
 
 [![Docart. Documentar para compartir](https://user-images.githubusercontent.com/8480826/54388543-b2226b80-467c-11e9-95fc-db8227fcd331.png)](https://vimeo.com/249640649 "Docart. Documentar para compartir - Click to Watch!")
 
+Video credit: Medialab-Prado
+
 #### Relatograma ####
 According to Carla Boserman, a relatograma is one possibility of visual narration that contains drawings and words to register a situation where there are people doing, explaining or sharing things. If nowadays we have many digital technologies to record events as facts, the relatograma aims to register “what does not appear in the photo". It documents (or tell us) how things happen from the point of view of an observer who does not try to make a neutral, objective report or recreate unattainable objectivity. On the contrary, the rapporteur assumes a committed position, from his own unique and situated perspective, to composes a scene that depends on her/his capacity to see  (and document). In that sense, elaborating a relatograma is closed related to the rapporteur's sensitivity to highlight details, give voice to the secondary, speak about emotions, disagreements, doubts, jokes, unforeseen events etc. Its potential is about trying to draw how prototyping and social innovation activities happens.
 

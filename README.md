@@ -83,7 +83,9 @@ Between 2016 and 2017, the initiative of the Brazilian collective BaixaCultura, 
 
 In 2018, I participated for the second time in Labic, a citizen innovation laboratory promoted by the UFRJ Communication School. This initiative is inspired by other Latin American experiences, carried out by Segib, and Spanish as Medialab-Prado, but the format of public call for projects + public call for collaborators + intensive work meetings has local adaptations. In this issue, the theme of postcolonial / decolonial had great prominence among the projects. These debates led us to problematize relationships between laboratory records and the colonial perspective - identified as extractivist, patriarchal, misogynist and mercantile. Would the laboratory notebook, even open, strengthen or weaken such a perspective?
 
+
 ![labic_2018](https://user-images.githubusercontent.com/8480826/54382462-ceb7a700-466e-11e9-80a2-3e91296aabf3.jpg)
+
 Image credit: ???
 
 

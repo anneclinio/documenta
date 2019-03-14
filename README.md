@@ -1,6 +1,8 @@
 # Welcome to documenta?! #
 An open research about documentation practices in may kinds of laboratories. 
+
 Una investigación abierta sobre prácticas de documentación en varios tipos de laboratorios (se habla español)
+
 Uma pesquisa aberta sobre práticas de documentação em vários tipos de laboratórios (fala-se português)
 
 ## What is it about? [vision statement] ##

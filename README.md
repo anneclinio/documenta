@@ -100,7 +100,7 @@ Image credit: ???
  * Put your name here... :)
 
 ## Contact ##
-  Anne Clinio 
+  Anne Clinio
   E-mail: anneclinio at gmail dot com
   Twitter: anneclinio
 

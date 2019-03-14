@@ -81,6 +81,11 @@ Between 2016 and 2017, the initiative of the Brazilian collective BaixaCultura, 
 
 ## Goals ##
 
+In 2018, I participated in the second edition of Labic - an .... 
+
+![labic_2018](https://user-images.githubusercontent.com/8480826/54379762-c78d9a80-4668-11e9-8fed-bd85b543d020.jpg)
+
+
 ## Resources ##
  * Our will.  
  * Previous literature, researches. 

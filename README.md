@@ -37,6 +37,8 @@ Since it is my first open project, I don´t have a stable roadmap. I am still le
 
 By contrast, the following behaviors are not tolerated: a) violence and threats of violence; b) personal attacks; c) derogatory language; d) unwelcome sexual attention or physical contact; d) disruptive behavior and e) influencing unacceptable behavior.  
 
+*Please let me know if you experience any code violation. Suggestions about how we can make this space more inviting are wellcome.* 
+
 ## Who proposes? ##
 I am Brazilian researcher, working on the information science field, and I have studied open laboratories notebboks, specially citizen labs documentation practices in Spain and Brazil during my PHD research, that resulted on the thesis ["New laboratory notebooks and new epistemic cultures: between experiment policy and politics experiment"](https://thesiscommons.org/263pc/). I also was team member of [Ubatuba Open Science Project](http://cienciaaberta.ubatuba.cc/), an action research that related open science with development issues - [video](https://www.youtube.com/watch?v=xGHUhl1WB9E). Since I study the commons perspective as a third way of "governance of the commons" (Ostrom), I would like to understand the possibilities and limits of documentation to enhance such practices. 
 

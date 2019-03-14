@@ -129,13 +129,13 @@ Image credit: ???
 *Como hacer un prototipo?* - Antonio Lafuente, Mariana Cancela - https://www.academia.edu/30989047/C%C3%B3mo_hacer_un_prototipo
 
 ### Relatograma ###
-*Cómo hacer un relatograma* - Carla Boserman - http://laaventuradeaprender.intef.es/documents/10184/72154/Guia-LADA_Como-hacer-un-relatograma.pdf
+* Cómo hacer un relatograma - Carla Boserman - http://laaventuradeaprender.intef.es/documents/10184/72154/Guia-LADA_Como-hacer-un-relatograma.pdf
 
-*Relatogramas: Dibujo y cognición en laboratorios sin muros* - Carla Boserman - Máster en Comunicación, Cultura y Ciudadanía Digitales, Universidad Rey Juan Carlos, 2013
+* Relatogramas: Dibujo y cognición en laboratorios sin muros - Carla Boserman - Máster en Comunicación, Cultura y Ciudadanía Digitales, Universidad Rey Juan Carlos, 2013
 
-*Dibujo y cognición en la laboratorios sin muros* - Carla Boserman (2013) - http://www.carlaboserman.net/relatogramas-dibujo-y-cognicion-enlaboratorios-sin-muros/
+* Dibujo y cognición en la laboratorios sin muros - Carla Boserman (2013) - http://www.carlaboserman.net/relatogramas-dibujo-y-cognicion-enlaboratorios-sin-muros/
 
-*Entre grafos y bits* - Carla Boserman (2014) - http://revistesdigitals.uvic.cat/index.php/obradigital/article/view/33
+* Entre grafos y bits - Carla Boserman (2014) - http://revistesdigitals.uvic.cat/index.php/obradigital/article/view/33
 
 ## License ##
 CC by-sa-nc

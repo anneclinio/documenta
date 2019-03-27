@@ -1,5 +1,5 @@
 # Welcome to documenta?! #
-An open research about documentation practices in may kinds of laboratories. English spoken.  
+An open research about documentation practices in many kinds of laboratories. English spoken.  
 
 Una investigación abierta sobre prácticas de documentación en varios tipos de laboratorios. ¡Se habla español!
 
@@ -41,6 +41,13 @@ By contrast, the following behaviors are not tolerated: a) violence and threats 
 
 *Please let me know if you experience any code violation. Suggestions about how we can make this space more inviting are wellcome.* 
 
+## Some goals ##
+
+In 2018, I participated for the second time in Labic, a citizen innovation laboratory promoted by the UFRJ Communication School. This initiative is inspired by other Latin American experiences, carried out by Segib, and Spanish as Medialab-Prado, but the format of public call for projects + public call for collaborators + intensive work meetings has local adaptations. In this issue, the theme of postcolonial / decolonial had great prominence among the projects. These debates led us to problematize relationships between laboratory records and the colonial perspective - identified as extractivist, patriarchal, misogynist and mercantile. Would the laboratory notebook, even open, strengthen or weaken such a perspective?
+
+![labic_2018](https://user-images.githubusercontent.com/8480826/54382462-ceb7a700-466e-11e9-80a2-3e91296aabf3.jpg)
+
+
 ## Who proposes? ##
 I am Brazilian researcher, working on the information science field, and I have studied open laboratories notebboks, specially citizen labs documentation practices in Spain and Brazil during my PHD research, that resulted on the thesis ["New laboratory notebooks and new epistemic cultures: between experiment policy and politics experiment"](https://thesiscommons.org/263pc/). I also was team member of [Ubatuba Open Science Project](http://cienciaaberta.ubatuba.cc/), an action research that related open science with development issues - [video](https://www.youtube.com/watch?v=xGHUhl1WB9E). Since I study the commons perspective as a third way of "governance of the commons" (Ostrom), I would like to understand the possibilities and limits of documentation to enhance such practices. 
 
@@ -53,12 +60,32 @@ I am Brazilian researcher, working on the information science field, and I have 
 
 "(...) open notebook science’s origin is situated at the junction of new forms of collaboration in digital environments and the emergence of a free digital culture. Its first practices were carried out in the context of the UsefulChem project, launched in 20059, to fulfill Bradley’s personal objective of “making a useful contribution to society” because “In thinking about what has meaning for me as a scientist, I realized that the work I was doing wasn’t having the kind of impact that I would like it to have, and it was not benefitting mankind in the way I would have hoped. I concluded that this was partly a consequence of secrecy” (Bradley, Sep 2010)." [(Clinio, Albagli, 2017)](https://journals.openedition.org/rfsic/3186#text)
 
+*References*
+* Beyond the Dichotomy between Natural and Knowledge Commons: Reflections on the IAD Framework from the Ubatuba Open Science Project - Anne Clinio, Sarita Albagli - https://hal.archives-ouvertes.fr/hal-01816671v1
+
+* Open notebook science as an emerging epistemic culture within the Open Science movement - Anne Clinio, Sarita Albagli - https://journals.openedition.org/rfsic/3186
+
+* Why open notebook science? - Anne Clinio - http://livroaberto.ibict.br/handle/1/1061
+
+
 #### Doc.art ####
 "Documenting is not recording facts but showing processes. It is not an occupation, but an attitude towards life: a mentality rather than a technique. The processes of collective construction and collaborative prototyping are invisible or disappear after the presence of the deliverable because those processes escape conventional documentation tools. The EduCaaS team, in collaboration with Antonio Lafuente, is designing a digital tool that makes these processes visible and also models them so that they can be replicated, modified and evaluated. This tool is a fundamental piece in citizen laboratories, understood as listening devices and open spaces of collective creation fundamental for the democratic renewal of our society." 
 
 [![Docart. Documentar para compartir](https://user-images.githubusercontent.com/8480826/54388543-b2226b80-467c-11e9-95fc-db8227fcd331.png)](https://vimeo.com/249640649 "Docart. Documentar para compartir - Click to Watch!")
 
 Video credit: [Medialab-Prado](https://www.medialab-prado.es/)
+
+*References* 
+* Doc.Art Github repository - Doc.Art (2017) - https://github.com/docART/documentacion
+
+* Manual Doc.art - Antonio Lafuente - https://www.academia.edu/36042065/manual_docART
+
+* El arte de documentar - Antonio Lafuente, David Gómez, Juan Freire - https://www.academia.edu/37938364/El_arte_de_documentar
+
+* Los laboratorios ciudadanos y el anarchivo de los comunes - Antonio Lafuente - Link: https://www.academia.edu/14834106/Los_laboratorios_ciudadanos_y_el_anarchivo_de_los_comunes
+
+* Como hacer un prototipo? - Antonio Lafuente, Mariana Cancela - https://www.academia.edu/30989047/C%C3%B3mo_hacer_un_prototipo
+
 
 #### Relatograma ####
 According to Carla Boserman, a relatograma is one possibility of visual narration that contains drawings and words to register a situation where there are people doing, explaining or sharing things. If nowadays we have many digital technologies to record events as facts, the relatograma aims to register “what does not appear in the photo". It documents (or tell us) how things happen from the point of view of an observer who does not try to make a neutral, objective report or recreate unattainable objectivity. On the contrary, the rapporteur assumes a committed position, from his own unique and situated perspective, to composes a scene that depends on her/his capacity to see  (and document). In that sense, elaborating a relatograma is closed related to the rapporteur's sensitivity to highlight details, give voice to the secondary, speak about emotions, disagreements, doubts, jokes, unforeseen events etc. Its potential is about trying to draw how prototyping and social innovation activities happens.
@@ -67,26 +94,32 @@ According to Carla Boserman, a relatograma is one possibility of visual narratio
 
 Image credit: Disección de un relatograma, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Diseccion_de_un_relatograma.jpg), user: carlaboser
 
+*References*
+* Cómo hacer un relatograma - Carla Boserman - http://laaventuradeaprender.intef.es/documents/10184/72154/Guia-LADA_Como-hacer-un-relatograma.pdf
+
+* Relatogramas: Dibujo y cognición en laboratorios sin muros - Carla Boserman - Máster en Comunicación, Cultura y Ciudadanía Digitales, Universidad Rey Juan Carlos, 2013
+
+* Dibujo y cognición en la laboratorios sin muros - Carla Boserman (2013) - http://www.carlaboserman.net/relatogramas-dibujo-y-cognicion-enlaboratorios-sin-muros/
+
+* Entre grafos y bits - Carla Boserman (2014) - http://revistesdigitals.uvic.cat/index.php/obradigital/article/view/33
+
+
 #### Global Open Science Hardware (GOSH) ####
 
 The Global Open Science Hardware (GOSH) movement seeks to reduce barriers between diverse creators and users of scientific tools to support the pursuit and growth of knowledge. It depends on documents that are understandable and communicative.
+
+*References*
+* Manifesto do Hardware Científico Aberto e Global - http://openhardware.science/gosh-manifesto/portuguese/
+
+* Global Open Science Hardware Roadmap: Making Open Science Hardware ubiquitous by 2025 - 
+http://openhardware.science/global-open-science-hardware-roadmap/
 
 
 #### ¡Enfrenta! ####
 
 Between 2016 and 2017, the initiative of the Brazilian collective BaixaCultura, in partnership with the Spanish Zemos98, researched documentation experiences in 20 collectives around Spain. From this process, a "recombinant methodology" has emerged. The idea is thata documenting is broader than publishing in social networks, but to systematize information, register facts, tell stories and constitute memory. The group's learning was recorded on the blog http://enfrenta.org/
 
-#### ENTER HERE YOUR SUGGESTIONS HERE ####
-
-## Goals ##
-
-In 2018, I participated for the second time in Labic, a citizen innovation laboratory promoted by the UFRJ Communication School. This initiative is inspired by other Latin American experiences, carried out by Segib, and Spanish as Medialab-Prado, but the format of public call for projects + public call for collaborators + intensive work meetings has local adaptations. In this issue, the theme of postcolonial / decolonial had great prominence among the projects. These debates led us to problematize relationships between laboratory records and the colonial perspective - identified as extractivist, patriarchal, misogynist and mercantile. Would the laboratory notebook, even open, strengthen or weaken such a perspective?
-
-
-![labic_2018](https://user-images.githubusercontent.com/8480826/54382462-ceb7a700-466e-11e9-80a2-3e91296aabf3.jpg)
-
-Image credit: ???
-
+#### ENTER YOUR SUGGESTIONS HERE ####
 
 ## Resources ##
  * Our will.  
@@ -103,45 +136,6 @@ Image credit: ???
   Anne Clinio
   E-mail: anneclinio at gmail dot com
   Twitter: anneclinio
-
-## Initial literature ## 
-
- ### Open notebook science ###
-* Beyond the Dichotomy between Natural and Knowledge Commons: Reflections on the IAD Framework from the Ubatuba Open Science Project - Anne Clinio, Sarita Albagli - https://hal.archives-ouvertes.fr/hal-01816671v1
-
-* Open notebook science as an emerging epistemic culture within the Open Science movement - Anne Clinio, Sarita Albagli - https://journals.openedition.org/rfsic/3186
-
-* Why open notebook science? - Anne Clinio - http://livroaberto.ibict.br/handle/1/1061
-
-
-### Doc.art ###
-* Doc.Art Github repository - Doc.Art (2017) - https://github.com/docART/documentacion
-
-* Manual Doc.art - Antonio Lafuente - https://www.academia.edu/36042065/manual_docART
-
-* El arte de documentar - Antonio Lafuente, David Gómez, Juan Freire - https://www.academia.edu/37938364/El_arte_de_documentar
-
-* Los laboratorios ciudadanos y el anarchivo de los comunes - Antonio Lafuente - Link: https://www.academia.edu/14834106/Los_laboratorios_ciudadanos_y_el_anarchivo_de_los_comunes
-
-* Como hacer un prototipo? - Antonio Lafuente, Mariana Cancela - https://www.academia.edu/30989047/C%C3%B3mo_hacer_un_prototipo
-
-
-### Relatograma ###
-* Cómo hacer un relatograma - Carla Boserman - http://laaventuradeaprender.intef.es/documents/10184/72154/Guia-LADA_Como-hacer-un-relatograma.pdf
-
-* Relatogramas: Dibujo y cognición en laboratorios sin muros - Carla Boserman - Máster en Comunicación, Cultura y Ciudadanía Digitales, Universidad Rey Juan Carlos, 2013
-
-* Dibujo y cognición en la laboratorios sin muros - Carla Boserman (2013) - http://www.carlaboserman.net/relatogramas-dibujo-y-cognicion-enlaboratorios-sin-muros/
-
-* Entre grafos y bits - Carla Boserman (2014) - http://revistesdigitals.uvic.cat/index.php/obradigital/article/view/33
-
-
-## GOSH ## 
-
-* Manifesto do Hardware Científico Aberto e Global - http://openhardware.science/gosh-manifesto/portuguese/
-
-* Global Open Science Hardware Roadmap: Making Open Science Hardware ubiquitous by 2025 - 
-http://openhardware.science/global-open-science-hardware-roadmap/
 
 ## License ##
 CC by-sa-nc

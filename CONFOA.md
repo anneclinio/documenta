@@ -1,25 +1,25 @@
 # ConfOA 2019 # 
 Pecha kucha presentation submitted to ConfOA 2019 *
 
-# Abrir a pesquisa para além do acesso aberto e dados abertos: a experiência do projeto Documenta?! #
+## Abrir a pesquisa para além do acesso aberto e dados abertos: a experiência do projeto Documenta?! ##
 Anne Clinio
 
-## Resumo da Proposta ##
+### Resumo da Proposta ###
 A apresentação compartilha aprendizados iniciais da experiência, ainda em desenvolvimento, de abrir o projeto de pesquisa Documenta?! com apoio do programa de mentoria Mozilla Open Leaders. Destaca que a noção de abertura desta iniciativa vai além dos aspectos econômicos, jurídicos, técnicos e editoriais mobilizados pelo discurso dominante da Ciência Aberta. A “liderança aberta” deve ser capaz de e construir projetos que mobilizam comunidades diversas e inclusivas, que ampliem a noção de abertura para temáticas como o padrão de interação entre membros da comunidade, a troca de valores (não na acepção monetária, mas como princípio), o engajamento, a diversidade, a inclusividade, a acessibilidade, a segurança e a mudança cultural.
 
-## Tipo de Trabalho ##
+### Tipo de Trabalho ###
 Pecha Kucha (apresentação curta)
 
-## Tema da Conferência ##
+### Tema da Conferência ###
 Ciência Aberta e outras expressões de conhecimento aberto: 1) Ciência cidadã, 2) Outras práticas de conhecimento aberto (hardware e software livre, educação aberta)
 
-## Palavras-chave ##
+### Palavras-chave ###
 Pesquisa aberta, abertura, open by design, Mozilla Open Leaders
 
-## Audiência ##
+### Audiência ###
 Pesquisadores, ativistas, profissionais de comunicação de ciência
 
-## Proposta ##
+### Proposta ###
 Atualmente, diversos atores que atuam no sistema de Ciência, Tecnologia e Inovacão estão fomentando a adoção do paradigma aberto em processos de produção e comunicação do conhecimento científico com ênfase no acesso aberto à literatura  e dados que subsidiam as afiormações publicadas tanto em artigos em periódicos como no formato pré-print. Em geral, o discurso dominante da Ciência Aberta mobiliza a noção de abertura para promover uma visão utilitarista da ciência que valoriza potenciais benefícios como maior eficácia, produtividade e competitivade. Neste sentido, a abertura se contrapõe a obstáculos artificiais que dificultam a ampla circulação do conhecimento científico de ordem: 
 
 - **Econômica** - Refere-se aos valores cobrados por editoras comerciais para o acesso ao conteúdo de revistas científicas através de paywalls que corróem orçamentos de bibliotecas e, impedem, em última instância, a realização de pesquisas. Ou, mais recentemente a cobrança de taxas de processamento de artigos que transferem o ônus financeiro do assinante para o autor do artigo.
@@ -47,7 +47,7 @@ No projeto Documenta?!, proposto pela autora deste Pecha Kucha como desdobrament
 - Indica maneiras de participar, tais como: sugerir práticas a serem pesquisados; estudar iniciativas; recomendar literatura; compartilhar insights ou experiência; colaborar na melhoria da participação, equidade e inclusão. 
 - Informa ambições do projeto – Vislumbra problematizar a inserção dos registros da atividade em laboratórios na perspectiva colonial da ciência – identificada como extrativista, patriarcal, misógina e mercantil. Estaria ela fortalecendo ou enfraquecendo esta perspectiva? 
     
-## Governança ##
+**Governança**
 - Adota código de conduta - Reafirma a necessidade de ser respeitos@ com ideias, estilos e fazer com que perspectivas invizibilizadas sejam ouvidas. 
 - Disponibiliza o Canvas aberto do projeto - Permite a visualização dos principais elementos da iniciativa, seus diferenciais, a quem se destina, e recursos.
 - Descreve desafios para governança do projeto – Reconhece que a cultura acadêmica ainda estimula práticas antagônicas à abertura, comprometendo-se a: 1) reconhecer e recompensar de maneira equânime as contribuições; 2) ser transparente sobre a tomada de decisão e compartilhamento de informação; 3) criar trajetos múltiplos e inclusivos para participação. 

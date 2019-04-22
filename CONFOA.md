@@ -1,5 +1,5 @@
 # ConfOA 2019 # 
-Pecha kucha presentation submitted to ConfOA 2019 *
+Pecha kucha presentation submitted to ConfOA 2019. it will be open peer reviewed soon. 
 
 ## Abrir a pesquisa para além do acesso aberto e dados abertos: a experiência do projeto Documenta?! ##
 Anne Clinio

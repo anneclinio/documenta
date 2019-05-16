@@ -29,15 +29,15 @@ In other words, while an "open by default" perspective may be vague (imprecise) 
 
 In Documenta?!, proposed by the Anne Clinio as a result of the doctoral research "New laboratory notebooks and new epistemic cultures: between the policy of the experiment and the experiment of the policy", the notion of openness has been operationalized from: 
 
-*Promotion of collaboration*
+**Promotion of collaboration**
 
-- It clearly describes the purpose of the project - "To know, to study and to systematize documentation practices developed by professionals in laboratories, especially laboratories of citizens, makerspaces, hackerspaces, spaces of informal learning, etc."
+- Describes clearly the purpose of the project - "To know, to study and to systematize documentation practices developed by professionals in laboratories, especially laboratories of citizens, makerspaces, hackerspaces, spaces of informal learning, etc."
 
 - Describes the problem to be solved - The current practices of citizen laboratories reduce documentation to bureaucratic activity rather than promoting it as a projection of alternative futures.
 
 - Describes vision / premises - Considers documentation to be crucial for the sustainability of initiatives, encouragement of co-creation processes and wide adoption of solutions. It allows you to engage people, share visions, foster communities, inspire initiatives, and reproduce objects.
 
-*Promotes participation*
+**Promotes participation**
 
 - Indicates ways to participate, such as: suggesting practices to be researched; study initiatives; recommend literature; share insights or experience; collaborate in improving participation, equity and inclusion.
 
@@ -53,26 +53,19 @@ It provides the open canvas of the project - It allows the visualization of the 
 
 - Shares financing proposal 
 
+**Diversity**
 
-Share financing proposal submitted for public tender
+- Promotes linguistic accessibility - The Documenta?! open research is developed in English, but it indicated the possibility to work with in Portuguese and Spanish. 
 
-*Diversity*
-
-- Promotes linguistic accessibility - The open research is developed in English, but it is indicated the possibility to work with in Portuguese and Spanish. 
-
-<h2>Temporary last words</h2>
+<h2>"Temporary last words"</h2>
 
 The project has not been fully publicized and the future challenges of its community are: 
-- a) to work on the issue of engagement; 
-- b) topics related to the safety of participants 
-- c) cultural change.
+- to work on the issue of engagement; 
+- topics related to the safety of participants 
+- cultural change.
 
 <h2>References</h2>
 
 Documenta?! Available at https://github.com/anneclinio/documenta Access on April 15, 2019
 
 MOZILLA. The Mozilla Open Leaders website: mzl.la/openleaders
-
-
-
-

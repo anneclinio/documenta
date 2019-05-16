@@ -1,4 +1,4 @@
-<h1>Opening research beyond open access and open data: the Documenta?! project experience<h1>
+<h1> Opening research beyond open access and open data: the Documenta?! project experience <h1>
 
 Anne Clinio
 
